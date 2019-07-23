@@ -1,6 +1,7 @@
 # whyVmoso
 The reasons for why you'll prefer Vmoso to WeChat like apps for work communications
 
+I have been using both WeChat and Vmoso for communicating with my workmates and I found I prefer Vmoso. Introduce it to you:
 
 [https://use.vmoso.com/](https://use.vmoso.com/)
 
@@ -24,3 +25,6 @@ How I do with Vmoso for above cases:
 About me: I worked for Vmoso Android app during 2013~2019. Really enjoyed and hope the next company I participant in will take Vmoso for their works.
 
 Vmoso: Unified enterprise communication, collaboration, and engagement for better knowledge management
+
+
+@Vmoso, if there is any infringement, please let me know I'll delete this post.
