@@ -11,7 +11,7 @@ I have been using both WeChat and Vmoso for communicating with my workmates and 
 3. It is almost impossible to setup a channel for recording TODO items on WeChat, however, sometimes people like me used to write down what I need to do and what I want others to do and expect a clear list to see status for each of them
 4. For the same file, you need to forward it multiple times to different chats if you want others see them, there is no such a space where I put them into, others can see; and if the file is updated with a new version, you need to loop the related chats to let them know the file is updated, and others need to download again to see the latest file, so much trivial work; think of you're the PM, can you imagine how crasy you'll be if you update the spec tens of times for your project or even just a feature
 5. You cannot keep the communication history when you get a new phone; and I believe you have experienced this case: "Image Expired", you cannot view the image if you didn't open it during some specific time phrase.
-6. I could list more, but I believe you'll enjoy using Vmoso for work and project management, only if you pay some time to play it
+6. I could list more, but I believe you'll enjoy using Vmoso for work and project management, if only you pay some time to play it
 
 How I do with Vmoso for above cases:
 1. Use `@Mention` filter in chat comments
